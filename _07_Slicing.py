@@ -1,5 +1,6 @@
 # Slicing Concepts
 # Forward Slicing and Backward Slicing
+
 #          012345678
 string1 = "Rahul Zmr"
 #         -8      -1
